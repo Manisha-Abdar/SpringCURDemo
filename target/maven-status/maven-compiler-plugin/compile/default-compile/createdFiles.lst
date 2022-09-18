@@ -1,0 +1,8 @@
+com\employee\dao\StudentRepository.class
+com\employee\customactuator\CustomActuator.class
+com\employee\service\StudentService.class
+com\employee\serviceimpl\StudentServiceImpl.class
+com\employee\SpringCurDemoApplication.class
+com\employee\controller\StudentController.class
+com\employee\Entity\Student.class
+com\employee\httptraces\ConfigurationClass.class
